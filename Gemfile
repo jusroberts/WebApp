@@ -43,3 +43,7 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+
+gem 'app_engine1', :path => '~/cbdr/test/AppEngine1'
+gem 'app_engine2', :path => '~/cbdr/test/AppEngine2'
